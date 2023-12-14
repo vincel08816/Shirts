@@ -1,0 +1,93 @@
+# Visual Studio files
+.vs/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages
+*.nupkg
+*.pup
+*.pbd
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# Build results
+[Bb]uild/
+
+# Roslyn cache
+*.ide/
+
+# Resharper files
+_ReSharper*/
+
+# Rider files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject file
+[Ee]xportedObj/
+*.dbmdl
+
+# Unity3D generated files
+Library/
+Temp/
+*.pidb
+*.pdb
+*.mdb
+
+# ReSharper
+*.[Rr]e[Ss]harper
+*.[Cc]ache
+*.[Cc]aches
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# AxoCover
+.axoCover/*
+!.axoCover/settings.json
+
+# Coverlet
+coverage/
+
+# OpenCover
+OpenCover/
+*.opencover.*
+
+# ReportGenerator
+reports/
+
+# GitLink
+GitLink/
+
+# DocFX
+_docfx/
+obj/
+bin/
